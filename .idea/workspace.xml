@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786440e5-aec3-49d2-8e37-90dc22311d6b" name="Changes" comment="" />
+    <list default="true" id="786440e5-aec3-49d2-8e37-90dc22311d6b" name="Changes" comment="NW double check and boil down" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,29 +78,42 @@
       <workItem from="1678960111826" duration="7345000" />
       <workItem from="1678972284718" duration="5958000" />
       <workItem from="1684176932746" duration="2861000" />
+      <workItem from="1684327001426" duration="13435000" />
     </task>
+    <task id="LOCAL-00001" summary="NW double check and boil down">
+      <created>1684572359035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684572359035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NW double check and boil down" />
+    <option name="LAST_COMMIT_MESSAGE" value="NW double check and boil down" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="1" />
+          <line>51</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/helpers/get_stim_list.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="2" />
+          <line>123</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Stimuli_for_DL$main.coverage" NAME="main Coverage Results" MODIFIED="1684252863088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Stimuli_for_DL$main.coverage" NAME="main Coverage Results" MODIFIED="1684572281458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

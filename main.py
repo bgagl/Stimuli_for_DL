@@ -19,7 +19,7 @@ if __name__ == '__main__':
     stims_s_wo_rep_vowel = [x for x in stims_s_ if any(vowel in x for vowel in 'AEIOUaeiou')]
 
     tmp = [string.lower() for string in stims_s_wo_rep_vowel]
-    to_rem_words = ["lest","masst","lust","dur","lost","list","last"]
+    to_rem_words = ["lest","masst","lust","dur","lost","list","last", "nan"]
     tmp = [item for item in tmp if item not in to_rem_words]
     stims_s_wo_rep_vowel = set(tmp)
     #lest masst lust dur lost list last
