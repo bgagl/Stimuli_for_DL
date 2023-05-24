@@ -124,7 +124,8 @@ def boil_down_NW(words, nwords, type):
             base_w = random.choice(list(words))
             modified_word = get_nw(base_w, type)
             i=0
-            while check_string_in_lists(modified_word, words, nwords):
+            n=0
+            while check_string_in_lists(modified_word, words, new_pws):
                 i = i + 1
                 if i < 600:
                     modified_word = get_nw(base_w, type)

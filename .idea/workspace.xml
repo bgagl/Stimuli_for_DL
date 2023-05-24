@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="786440e5-aec3-49d2-8e37-90dc22311d6b" name="Changes" comment="NW double check and boil down" />
+    <list default="true" id="786440e5-aec3-49d2-8e37-90dc22311d6b" name="Changes" comment="NW double check and boil down">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +81,8 @@
       <workItem from="1678972284718" duration="5958000" />
       <workItem from="1684176932746" duration="2861000" />
       <workItem from="1684327001426" duration="13435000" />
+      <workItem from="1684573660686" duration="98000" />
+      <workItem from="1684921573883" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="NW double check and boil down">
       <created>1684572359035</created>
@@ -87,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684572359035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NW double check and boil down">
+      <created>1684573712939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684573712939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +125,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Stimuli_for_DL$main.coverage" NAME="main Coverage Results" MODIFIED="1684572281458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Stimuli_for_DL$main.coverage" NAME="main Coverage Results" MODIFIED="1684573686084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
